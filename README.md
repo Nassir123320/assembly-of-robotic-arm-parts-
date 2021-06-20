@@ -6,3 +6,4 @@ first I will talk about links :
 2- arms : rigid bodys that we can connect them together and in this case they allows 180 degree of movement .
 3- Waist : it is the link that Located between the base and the arms and connect them togther .
 4- Gripper : it is Located at the end of the robotic arm and it is main function to catch or hold . 
+we have also joints : joits allows us to conect links together .
